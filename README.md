@@ -64,7 +64,7 @@ Screenshot of javaScript file, syntax-highlighted with DuoTone Dark colorscheme.
 
 ### Recommended
 - [plugin Block Cursor Everywhere](https://github.com/karlhorky/BlockCursorEverywhere)
-- [Preferences Settings](https://github.com/atelierbram/duotones-sublime-colorschemes/Preferences.sublime-settings.json)
+- [Preferences Settings](https://github.com/atelierbram/duotones-sublime-colorschemes/blob/master/Preferences.sublime-settings.json)
 - [Preferences Settings by Wes Bos](https://gist.github.com/wesbos/a3b12cfda064a906ac04)
 
 ## License

@@ -1,99 +1,99 @@
 {
-	"added_words":
-	[
-"dev",
+  "added_words":
+  [
+    "dev",
     "workflow",
     "workflows",
     "width"
-	],
-	"afn_insert_dimensions": false,
-	"auto_indent": true,
-	"binary_file_patterns":
-	[
-		".DS_Store",
-		"node_modules/",
-		"tmp/",
-		"*.png",
-		"*.psd",
-		"*.ai",
-		"*.min.js",
-		"tmp/",
-		"_tmp/"
-	],
-	"binary_file_patterns":
-	[
-		"node_modules/"
-	],
-	"bold_folder_labels": true,
-	"caret_extra_bottom": 2,
-	"caret_extra_top": 2,
-	"caret_extra_width": 3,
-	"caret_style": "phase",
-	"close_windows_when_empty": true,
-	"color_scheme": "Packages/duotones-sublime-colorschemes/base16-duotone-darkdesert.dark.tmTheme",
-	"command": "displayName",
-	"detect_indentation": false,
-	"draw_centered": false,
-	"draw_minimap_border": true,
-	"draw_white_space": "selection",
-	"enable_tab_scrolling": false,
-	"ensure_newline_at_eof_on_save": true,
-	"extend_env":
-	{
-		"PATH": "/usr/local/bin"
-	},
-	"fade_fold_buttons": false,
-	"file_exclude_patterns":
-	[
-		".DS_Store"
-	],
-	"find_selected_text": true,
-	"folder_exclude_patterns":
-	[
-		".git",
-		".sass-cache"
-	],
-	"font_face": "FiraMono-Regular",
-	"font_size": 14,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		""
-	],
-	"indent_guide_options":
-	[
-		"draw_normal",
-		"draw_active"
-	],
-	"index_exclude_patterns":
-	[
-		"*.log"
-	],
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
-	"margin": 4,
-	"match_brackets": true,
-	"match_brackets_angle": true,
-	"match_brackets_braces": true,
-	"match_brackets_content": true,
-	"match_brackets_square": true,
-	"open_files_in_new_window": false,
-	"origami_auto_zoom_on_focus": false,
-	"rulers":
-	[
-		80
-	],
-	"scroll_past_end": true,
-	"show_full_path": true,
-	"show_tab_close_buttons": false,
-	"tab_size": 2,
-	"theme": "Flatland Dark.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": false,
-	"use_simple_full_screen": false,
-	"use_tab_stops": true,
-	"vintage_start_in_command_mode": true,
-	"wide_caret": true,
-	"word_wrap": true
+  ],
+  "afn_insert_dimensions": false,
+  "auto_indent": true,
+  "binary_file_patterns":
+  [
+    ".DS_Store",
+    "node_modules/",
+    "tmp/",
+    "*.png",
+    "*.psd",
+    "*.ai",
+    "*.min.js",
+    "tmp/",
+    "_tmp/"
+  ],
+  "binary_file_patterns":
+  [
+    "node_modules/"
+  ],
+  "bold_folder_labels": true,
+  "caret_extra_bottom": 2,
+  "caret_extra_top": 2,
+  "caret_extra_width": 3,
+  "caret_style": "phase",
+  "close_windows_when_empty": true,
+  "color_scheme": "Packages/duotones-sublime-colorschemes/base16-duotone-darkdesert.dark.tmTheme",
+  "command": "displayName",
+  "detect_indentation": false,
+  "draw_centered": false,
+  "draw_minimap_border": true,
+  "draw_white_space": "selection",
+  "enable_tab_scrolling": false,
+  "ensure_newline_at_eof_on_save": true,
+  "extend_env":
+  {
+    "PATH": "/usr/local/bin"
+  },
+  "fade_fold_buttons": false,
+  "file_exclude_patterns":
+  [
+    ".DS_Store"
+  ],
+  "find_selected_text": true,
+  "folder_exclude_patterns":
+  [
+    ".git",
+    ".sass-cache"
+  ],
+  "font_face": "FiraMono-Regular",
+  "font_size": 14,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    ""
+  ],
+  "indent_guide_options":
+  [
+    "draw_normal",
+    "draw_active"
+  ],
+  "index_exclude_patterns":
+  [
+    "*.log"
+  ],
+  "line_padding_bottom": 3,
+  "line_padding_top": 3,
+  "margin": 4,
+  "match_brackets": true,
+  "match_brackets_angle": true,
+  "match_brackets_braces": true,
+  "match_brackets_content": true,
+  "match_brackets_square": true,
+  "open_files_in_new_window": false,
+  "origami_auto_zoom_on_focus": false,
+  "rulers":
+  [
+    80
+  ],
+  "scroll_past_end": true,
+  "show_full_path": true,
+  "show_tab_close_buttons": false,
+  "tab_size": 2,
+  "theme": "Flatland Dark.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": false,
+  "use_simple_full_screen": false,
+  "use_tab_stops": true,
+  "vintage_start_in_command_mode": true,
+  "wide_caret": true,
+  "word_wrap": true
 }
