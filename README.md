@@ -18,7 +18,7 @@ Or Locate your Sublime Text 2 `Packages` directory by using the menu item `Prefe
 So while inside the `Packages` directory, clone the theme repository using the command below:
 
 ```bash
-$ git clone https://github.com/atelierbram/duotones-sublime-colorschemes.git
+git clone https://github.com/atelierbram/duotones-sublime-colorschemes.git
 ```
 
 ### Download Manually
