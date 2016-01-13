@@ -31,6 +31,12 @@ git clone https://github.com/atelierbram/duotones-sublime-colorschemes.git
 
 `Preferences -> Color Scheme -> duotones`
 
+In your `Preferences.sublime-settings` file; open `Preferences` → `Settings - User` and add the following line:
+
+```javascript
+	"color_scheme": "Packages/duotones-sublime-colorschemes/base16-duotone-darksea.dark.tmTheme",
+```
+
 ## Screenshots
 ![screenshot of javaScript file syntax-highlighted with DuoTone Dark colorscheme](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-dark_sublime_960x640.png)
 Screenshot of javaScript file, syntax-highlighted with DuoTone Dark colorscheme.
@@ -55,6 +61,11 @@ Screenshot of javaScript file, syntax-highlighted with DuoTone Dark colorscheme.
 - [commands for Sublime](http://www.sublimetext.com/docs/commands)
 - [info on setting for Sublime](https://www.sublimetext.com/docs/3/settings.html)
 - [On Editing Colorschemes for Sublime Text](http://atelierbram.github.io/blog/colorschemes-sublime/)
+
+### Recommended
+- [plugin Block Cursor Everywhere](https://github.com/karlhorky/BlockCursorEverywhere)
+- [Preferences Settings](https://github.com/atelierbram/duotones-sublime-colorschemes/Preferences.sublime-settings.json)
+- [Preferences Settings by Wes Bos](https://gist.github.com/wesbos/a3b12cfda064a906ac04)
 
 ## License
 Released under [MIT Licence](http://atelierbram.mit-license.org)
