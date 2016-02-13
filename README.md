@@ -34,7 +34,7 @@ git clone https://github.com/atelierbram/duotones-sublime-colorschemes.git
 In your `Preferences.sublime-settings` file; open `Preferences` → `Settings - User` and add the following line:
 
 ```javascript
-	"color_scheme": "Packages/duotones-sublime-colorschemes/base16-duotone-darksea.dark.tmTheme",
+	"color_scheme": "Packages/duotones-sublime-colorschemes/duotone-darksea.dark.tmTheme",
 ```
 
 ## Screenshots
