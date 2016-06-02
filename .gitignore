@@ -1,6 +1,7 @@
 # OS folder settings
 [Tt]humbs.db
 *.DS_Store
+Preferences.sublime-settings.json
 
 # Sublime Text cache files
 *.cache
