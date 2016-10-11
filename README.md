@@ -56,7 +56,6 @@ Screenshot of javaScript file, syntax-highlighted with DuoTone Dark colorscheme.
 - [darkSpace](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkSpace_sublime_960x640.png)
 - [darkEarth](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkEarth_sublime_960x640.png)
 - [darkForest](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkForest_sublime_960x640.png)
-- [darkPool](http://atelierbram.github.io/syntax-highlighting/assets/img/duotones-darkPool_sublime_960x640.png)
 
 ## Demo
 - [DuoTones on Github](http://atelierbram.github.io/syntax-highlighting/duotones/)
@@ -72,6 +71,7 @@ Screenshot of javaScript file, syntax-highlighted with DuoTone Dark colorscheme.
 - [commands for Sublime](http://www.sublimetext.com/docs/commands)
 - [info on setting for Sublime](https://www.sublimetext.com/docs/3/settings.html)
 - [On Editing Colorschemes for Sublime Text](http://atelierbram.github.io/blog/colorschemes-sublime/)
+- [Base2Tone Sublime Text for generating themes with Base16-Builder](https://github.com/atelierbram/Base2Tone-sublime-text)
 
 ### Recommended
 - [plugin Block Cursor Everywhere](https://github.com/karlhorky/BlockCursorEverywhere)
