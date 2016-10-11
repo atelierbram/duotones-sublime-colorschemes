@@ -3,6 +3,17 @@ Colorschemes for Sublime Text based on [DuoTone themes](http://simurai.com/proje
 
 ## Installation
 
+### Use Package Control
+This repository is [on package control](https://packagecontrol.io/packages/Duotones%20Colorschemes)
+
+Package Control is driven by the Command Palette. To open the palette, press ctrl+shift+p (Win, Linux) or cmd+shift+p (OS X). All Package Control commands begin with Package Control:, so start by typing Package.
+
+The command palette will now show a number of commands. Most users will be interested in the following:
+
+- select `Install Package` with the arrow keys
+
+When the popup show up start typing: `Duotones Colorschemes` and the package should show up.
+
 ### Using Git
 
 On Mac OS X the `colorschemes.tmTheme` files can be found in the following directory from the terminal,

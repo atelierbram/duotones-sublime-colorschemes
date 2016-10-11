@@ -3,11 +3,11 @@
 <plist version="1.0">
   <dict>
     <key>author</key>
-    <string>adapted from: Simurai (https://github.com/simurai/duotone-dark-forest-syntax/)</string>
+    <string>adapted from: Simurai (https://github.com/simurai/duotone-dark-syntax/)</string>
     <key>name</key>
-    <string>Base16 Duotone-DarkForest Dark</string>
+    <string>Base2Tone-Forest Dark</string>
     <key>semanticClass</key>
-    <string>base16.duotone-darkforest.dark</string>
+    <string>base-2-tone-forest</string>
     <key>colorSpaceName</key>
     <string>sRGB</string>
     <key>gutterSettings</key>
@@ -37,7 +37,7 @@
           <key>invisibles</key>
           <string>#353b35</string>
           <key>lineHighlight</key>
-          <string>#353b3555</string>
+          <string>#353b35</string>
           <key>selection</key>
           <string>#353b35</string>
           <key>findHighlight</key>
@@ -88,7 +88,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#919966</string>
+          <string>#7d816a</string>
         </dict>
       </dict>
       <dict>
@@ -132,7 +132,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#53c653</string>
+          <string>#5c705c</string>
         </dict>
       </dict>
       <dict>
@@ -187,7 +187,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#bed161</string>
+          <string>#cbe25a</string>
         </dict>
       </dict>
       <dict>
@@ -198,7 +198,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#53c653</string>
+          <string>#5c705c</string>
         </dict>
       </dict>
       <dict>
@@ -297,7 +297,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#bed161</string>
+          <string>#cbe25a</string>
         </dict>
       </dict>
       <dict>
@@ -356,7 +356,7 @@
           <key>fontStyle</key>
           <string>bold</string>
           <key>foreground</key>
-          <string>#afc059</string>
+          <string>#bfd454</string>
         </dict>
       </dict>
       <dict>
@@ -369,7 +369,7 @@
           <key>fontStyle</key>
           <string>italic</string>
           <key>foreground</key>
-          <string>#53c653</string>
+          <string>#5c705c</string>
         </dict>
       </dict>
       <dict>
@@ -380,7 +380,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#919966</string>
+          <string>#7d816a</string>
         </dict>
       </dict>
       <dict>
@@ -391,7 +391,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#45a145</string>
+          <string>#435643</string>
         </dict>
       </dict>
       <dict>
@@ -413,7 +413,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#45a145</string>
+          <string>#435643</string>
         </dict>
       </dict>
       <dict>
@@ -448,7 +448,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#919966</string>
+          <string>#7d816a</string>
         </dict>
       </dict>
       <dict>
@@ -459,7 +459,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#45a145</string>
+          <string>#435643</string>
         </dict>
       </dict>
       <dict>
@@ -470,7 +470,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#53c653</string>
+          <string>#5c705c</string>
         </dict>
       </dict>
       <dict>
@@ -514,7 +514,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#46b946</string>
+          <string>#4f634f</string>
         </dict>
       </dict>
       <dict>
@@ -525,7 +525,7 @@
         <key>settings</key>
         <dict>
           <key>background</key>
-          <string>#45a145</string>
+          <string>#435643</string>
           <key>foreground</key>
           <string>#f0fff0</string>
         </dict>
@@ -551,7 +551,7 @@
         <key>settings</key>
         <dict>
           <key>background</key>
-          <string>#46b946</string>
+          <string>#4f634f</string>
           <key>foreground</key>
           <string>#f0fff0</string>
         </dict>
@@ -584,6 +584,7 @@
       </dict>
     </array>
     <key>uuid</key>
-    <string>fea4535a-14f9-4f0e-83fc-947066444266</string>
+    <string>79c2d069-ec9d-4af7-9440-91f644cc1bee</string>
   </dict>
 </plist>
+

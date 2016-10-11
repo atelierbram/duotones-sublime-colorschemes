@@ -3,5 +3,8 @@
 *.DS_Store
 Preferences.sublime-settings.json
 
+# Generated files with Base16-Builder, see also: https://github.com/atelierbram/Base2Tone-sublime
+io.sh
+
 # Sublime Text cache files
 *.cache
